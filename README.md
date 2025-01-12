@@ -10,7 +10,7 @@ Objective
 The primary objective is to utilize the provided datasets to uncover patterns, correlations, and key drivers of child and infant mortality in African countries. Participants will propose data-driven strategies and interventions that policymakers, healthcare providers, and organizations can adopt to improve health outcomes for children.
 
 ### Objective
-The primary objective is to utilize the provided datasets to uncover patterns, correlations, and key drivers of child and infant mortality in African countries. Participants will propose data-driven strategies and interventions that policymakers, healthcare providers, and organizations can adopt to improve health outcomes for children.
+The primary objective is to utilize the provided datasets to uncover patterns, correlations, and key drivers of child and infant mortality in African countries. The goal is to provide data-driven strategies and interventions that policymakers, healthcare providers, and organizations can adopt to improve health outcomes for children.
 1. Identify socioeconomic, healthcare, and environmental factors contributing to high mortality
 rates.
 2. Propose actionable recommendations to address gaps in vaccination coverage, healthcare
