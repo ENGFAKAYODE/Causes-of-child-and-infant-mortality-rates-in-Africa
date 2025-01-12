@@ -15,5 +15,3 @@ The primary objective is to utilize the provided datasets to uncover patterns, c
 rates.
 2. Propose actionable recommendations to address gaps in vaccination coverage, healthcare
 access, and maternal support.
-3. Present insights in a format that is accessible to policymakers and stakehung children.
-ders
