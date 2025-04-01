@@ -140,5 +140,5 @@ Promote breastfeeding and support proper infant nutrition.
 Implement systems for real-time data collection on vaccination rates, maternal health, and infant mortality to identify gaps quickly.
 - Collaborate with International Partners:
 Leverage support from organizations like WHO, UNICEF, and other global health partners to fund and implement large-scale health initiatives.
-- Promote Clean Water and SanitatioN
+- Promote Clean Water and Sanitation
 - Improve access to clean water to combat diarrheal diseases. e. Educate communities on hygiene and sanitation practices.
