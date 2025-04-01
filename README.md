@@ -127,7 +127,7 @@ Ensure all pregnant women attend at least four antenatal visits for proper monit
 Promote early postnatal check-ups to prevent complications for mothers and newborns.
 - **Ensure Skilled Birth Attendance:**
 Scale up training and deployment of midwives and skilled birth attendants.
-Encourage facility-based deliveries through maternal incentives (e.g., free delivery kits).
+Encourage facility-based deliveries through maternal incentives (e.g. free delivery kits).
 - **Promote Family Planning and Reproductive Health:**
 Expand access to contraceptives to reduce high-risk pregnancies.
 Offer reproductive health education to empower women and families.
