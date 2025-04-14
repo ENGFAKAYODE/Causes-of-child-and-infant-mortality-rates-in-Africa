@@ -1,5 +1,5 @@
 # CAUSES OF CHILD AND INFANT MORTALITY RATE IN AFRICA
-
+![image](afr.jpg)
 ## TABLE OF CONTENT
 - [GENERAL OVERVIEW](#general-overview)
 - [OBJECTIVE](#objective)
