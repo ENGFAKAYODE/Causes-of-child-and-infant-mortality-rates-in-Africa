@@ -8,6 +8,7 @@
 - [DATA TOOLS](#data-tools)
 - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
 - [DATA ANALYSIS](#data-analysis)
+- [INSIGHTS](#INSIGHTS)
 - [RECOMMENDATION](#recommendation)
 
 ## GENERAL OVERVIEW
