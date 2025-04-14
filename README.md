@@ -3,6 +3,7 @@
 ## TABLE OF CONTENT
 - [GENERAL OVERVIEW](#general-overview)
 - [OBJECTIVE](#objective)
+- [SKILLS DEMONSTRATED](#skills-demonstrated)
 - [DATA SOURCE](#data-source)
 - [DATA TOOLS](#data-tools)
 - [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
@@ -20,6 +21,13 @@ The primary objective is to utilize the provided datasets to uncover patterns, c
 1. Identify socioeconomic, healthcare and environmental factors contributing to high mortality rates.
 2. Propose actionable recommendations to address gaps in vaccination coverage, healthcare access, and maternal support.
 3. Present insights in a format that is understandable to a non-technical audience.
+
+## SKILLS DEMONSTRATED
+- Data Cleaning 
+- Data Visualisation
+- Exploratory Data Analysis
+- Problem-solving
+- Data Transformation
 
 ## DATA SOURCE
 
@@ -47,10 +55,13 @@ The primary data source for this analysis is obtained from government health rec
    - Corrected inconsistent data format and missing values
    - Checked for skewness to determine whether to fill missing values with median or mean, all columns are left-skewed so I filled missing values with the median. 
      
-# DATA TRANSFORMATION
+## DATA TRANSFORMATION
    - Merged the datasets into a dataframe
    - Create a new column with the average of all immunization factors
    - Exported the merged data to CSV file view so that the file can be explored in Excel
+
+## DATA MODELLING
+   - The datasets were merged into a dataframe, so there was no need for data modelling
 
 ## EXPLORATORY DATA ANALYSIS (EDA)
 
@@ -67,29 +78,27 @@ The primary data source for this analysis is obtained from government health rec
 ## INSIGHTS
 
 ### 1. Socioeconomic Factors
-a. Poverty and Wealth Inequities:
+a. **Poverty and Wealth Inequities:** The "Very Poor" wealth group has the highest number of deaths. The heatmap indicates a strong negative correlation between the wealth quintile and mortality rates (e.g., -0.46). Wealthier populations have better access to healthcare, nutrition and education. Poverty leads to poor living conditions, malnutrition and inability to afford health services.
 
-"Very Poor" wealth group has the highest number of deaths. The heatmap indicates a strong negative correlation between the wealth quintile and mortality rates (e.g., -0.46). Wealthier populations have better access to healthcare, nutrition and education. Poverty leads to poor living conditions, malnutrition and inability to afford health services.
+b. **Health Insurance Coverage:** Low insurance coverage (-0.26 correlation with under-fifteen mortality) limits access to essential maternal and infant healthcare services. This exacerbates disparities between socioeconomic groups.
 
-b. Health Insurance Coverage: Low insurance coverage (-0.26 correlation with under-fifteen mortality) limits access to essential maternal and infant healthcare services. This exacerbates disparities between socioeconomic groups.
-
-c. Education and Awareness: Lack of education especially among mothers, reduces awareness of proper child care, hygiene and vaccination importance. Correlation between wealth and maternal health outcomes highlights that uneducated or impoverished communities are at a greater risk.
+c. **Education and Awareness:** Lack of education especially among mothers, reduces awareness of proper child care, hygiene and vaccination importance. Correlation between wealth and maternal health outcomes highlights that uneducated or impoverished communities are at a greater risk.
 
 ### 2. Healthcare Factors
-a. Inadequate Access to Skilled Birth Attendants: The strong negative correlation (-0.50) between skilled health staff attendance and mortality rates indicates that many births occur without professional care. Poor infrastructure and insufficient healthcare personnel contribute to preventable deaths during birth.
+a. **Inadequate Access to Skilled Birth Attendants:** The strong negative correlation (-0.50) between skilled health staff attendance and mortality rates indicates that many births occur without professional care. Poor infrastructure and insufficient healthcare personnel contribute to preventable deaths during birth.
 
-b. Maternal Health Support: Correlation between maternal deaths and infant mortality (+0.88) indicates poor maternal health has a direct impact on child survival rates. Lack of prenatal and postnatal care increases risks for birth complications and premature births.
+b. **Maternal Health Support:** Correlation between maternal deaths and infant mortality (+0.88) indicates poor maternal health has a direct impact on child survival rates. Lack of prenatal and postnatal care increases risks for birth complications and premature births.
 
-c. Insufficient Vaccination Coverage: Vaccine-preventable diseases like measles, tetanus, meningitis and malaria (mentioned in the causes of death) remain prevalent in regions with limited vaccination programs. It has a correlation of (-0.52) with the overall deaths
+c. **Insufficient Vaccination Coverage:** Vaccine-preventable diseases like measles, tetanus, meningitis and malaria (mentioned in the causes of death) remain prevalent in regions with limited vaccination programs. It has a correlation of (-0.52) with the overall deaths
 
-d. Overburdened and Underfunded Health Systems: Limited funding, equipment shortages and overburdened facilities in rural and poor areas reduce the quality of care.
+d. **Overburdened and Underfunded Health Systems:** Limited funding, equipment shortages and overburdened facilities in rural and poor areas reduce the quality of care.
 
 ## RECOMMENDATION
 
 ### 1. Address Gaps in Vaccination Coverage
 Challenge Identified: High mortality from vaccine-preventable diseases such as measles, tetanus, and meningitis.
 
-Solutions:
+**Solutions:**
 - **Strengthen Immunization Programs:**
 Scale up outreach programs to reach remote and underserved areas.
 Deploy mobile vaccination clinics in rural areas where healthcare facilities are lacking.
@@ -105,7 +114,7 @@ Provide incentives such as food packages or childcare essentials for families co
 ### 2. Improve Healthcare Access
 Challenge Identified: Limited healthcare infrastructure, shortage of skilled health workers and poor access in remote regions.
 
-Solutions:
+**Solutions:**
 - **Expand Health Infrastructure:**
 Build and upgrade primary healthcare facilities in underserved areas.
 Invest in telemedicine to connect remote areas with specialized medical services.
@@ -118,7 +127,7 @@ Introduce health insurance schemes tailored for low-income families.
 - **Enhance Maternal and Neonatal Support**
 
 
-Challenges Identified: High mortality due to birth asphyxia, prematurity, and sepsis, indicating inadequate maternal care.
+**Challenges Identified**: High mortality due to birth asphyxia, prematurity, and sepsis, indicating inadequate maternal care.
 
 Solutions:
 
@@ -136,9 +145,9 @@ Provide iron supplements and balanced nutrition programs for expectant mothers.
 Promote breastfeeding and support proper infant nutrition.
 
 ### Other Recommendations:
-- Data Collection and Monitoring:
+- **Data Collection and Monitoring:**
 Implement systems for real-time data collection on vaccination rates, maternal health, and infant mortality to identify gaps quickly.
-- Collaborate with International Partners:
+- **Collaborate with International Partners:**
 Leverage support from organizations like WHO, UNICEF, and other global health partners to fund and implement large-scale health initiatives.
 - Promote Clean Water and Sanitation
 - Improve access to clean water to combat diarrheal diseases. e. Educate communities on hygiene and sanitation practices.
