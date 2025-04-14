@@ -96,7 +96,7 @@ d. **Overburdened and Underfunded Health Systems:** Limited funding, equipment s
 ## RECOMMENDATION
 
 ### 1. Address Gaps in Vaccination Coverage
-Challenge Identified: High mortality from vaccine-preventable diseases such as measles, tetanus, and meningitis.
+**Challenge Identified:** High mortality from vaccine-preventable diseases such as measles, tetanus, and meningitis.
 
 **Solutions:**
 - **Strengthen Immunization Programs:**
@@ -112,7 +112,7 @@ Partner with community leaders to promote immunization programs.
 Provide incentives such as food packages or childcare essentials for families completing immunization schedules.
 
 ### 2. Improve Healthcare Access
-Challenge Identified: Limited healthcare infrastructure, shortage of skilled health workers and poor access in remote regions.
+**Challenge Identified:** Limited healthcare infrastructure, shortage of skilled health workers and poor access in remote regions.
 
 **Solutions:**
 - **Expand Health Infrastructure:**
