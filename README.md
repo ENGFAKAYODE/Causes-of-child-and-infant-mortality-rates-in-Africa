@@ -47,7 +47,7 @@ The primary data source for this analysis is obtained from government health rec
 ## DATA TOOLS
 
 - **Microsoft Excel:** Used for initial data storage, cleaning and basic analysis.
-- **Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn):** For data cleaning, transformation, processing and visualization.
+- **Python (Pandas, NumPy, Matplotlib, Seaborn):** For data cleaning, transformation, processing and visualization.
 
 ## DATA CLEANING STEPS:
    - Renamed Columns
@@ -90,7 +90,7 @@ a. **Inadequate Access to Skilled Birth Attendants:** The strong negative correl
 
 b. **Maternal Health Support:** Correlation between maternal deaths and infant mortality (+0.88) indicates poor maternal health has a direct impact on child survival rates. Lack of prenatal and postnatal care increases risks for birth complications and premature births.
 
-c. **Insufficient Vaccination Coverage:** Vaccine-preventable diseases like measles, tetanus, meningitis and malaria (mentioned in the causes of death) remain prevalent in regions with limited vaccination programs. It has a correlation of (-0.52) with the overall deaths
+c. **Insufficient Vaccination Coverage:** Vaccine-preventable diseases like measles, tetanus, meningitis and malaria (mentioned in the causes of death) remain prevalent in regions with limited vaccination programs. It has a correlation of (-0.52) with the overall deaths.
 
 d. **Overburdened and Underfunded Health Systems:** Limited funding, equipment shortages and overburdened facilities in rural and poor areas reduce the quality of care.
 
@@ -130,7 +130,7 @@ Introduce health insurance schemes tailored for low-income families.
 
 **Challenges Identified**: High mortality due to birth asphyxia, prematurity, and sepsis, indicating inadequate maternal care.
 
-Solutions:
+**Solutions:**
 
 - **Strengthen Antenatal and Postnatal Care:**
 Ensure all pregnant women attend at least four antenatal visits for proper monitoring.
@@ -150,5 +150,5 @@ Promote breastfeeding and support proper infant nutrition.
 Implement systems for real-time data collection on vaccination rates, maternal health, and infant mortality to identify gaps quickly.
 - **Collaborate with International Partners:**
 Leverage support from organizations like WHO, UNICEF, and other global health partners to fund and implement large-scale health initiatives.
-- Promote Clean Water and Sanitation
+- Promote Clean Water and Sanitation.
 - Improve access to clean water to combat diarrheal diseases. e. Educate communities on hygiene and sanitation practices.
